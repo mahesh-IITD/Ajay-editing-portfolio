@@ -1,8 +1,6 @@
 {
-  "framework": "nextjs",
-  "buildCommand": "npm run build",
-  "outputDirectory": ".next",
-  "ignoreCommand": "echo 'Vercel will install deps itself'"
+  "framework": "nextjs"
 }
+
 
 
