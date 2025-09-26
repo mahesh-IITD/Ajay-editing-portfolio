@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ad-spot-01",
+    "title": "Ad Spot — Coffee Brand",
+    "thumbnail": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=1200&auto=format&fit=crop",
+    "category": "Ads",
+    "videoUrl": "https://www.youtube.com/watch?v=ysz5S6PUM-U",
+    "description": "High-energy 30s ad spot with dynamic cuts and sound design."
+  },
+  {
+    "id": "short-film-01",
+    "title": "Short Film — Midnight Run",
+    "thumbnail": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto=format&fit=crop",
+    "category": "Short Films",
+    "videoUrl": "https://vimeo.com/357274789",
+    "description": "A tense chase with moody color grade and foley-driven pacing."
+  },
+  {
+    "id": "reel-01",
+    "title": "Social Reel — Fitness Montage",
+    "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1200&auto=format&fit=crop",
+    "category": "Reels",
+    "videoUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+    "description": "Punchy 20s reel with speed-ramping and beat matching."
+  },
+  {
+    "id": "youtube-01",
+    "title": "YouTube — Tutorial Edit",
+    "thumbnail": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?q=80&w=1200&auto=format&fit=crop",
+    "category": "YouTube",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "description": "Clean cut tutorial with motion graphics callouts."
+  }
+]
+
+
